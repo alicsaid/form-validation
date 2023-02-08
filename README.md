@@ -1,6 +1,6 @@
-# Register form
+# Form validation
 
-Web stranica za registraciju na sistem WebProgramiranje.
+Jednostavna web stranica za registraciju na sistem WebProgramiranje.
 
 Mini projekat iz predmeta Web programiranje I 
 
